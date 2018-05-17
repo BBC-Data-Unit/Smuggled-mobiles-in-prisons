@@ -22,6 +22,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Scotland: Evening Express: [North-east superjail prisoners found with 25 mobiles](https://www.eveningexpress.co.uk/fp/news/local/superjail-prisoners-found-with-25-mobiles/) *17 May 2018*
 * Wigan Today: [Mobile phone seizures at Hindley Prison among highest in UK](https://www.wigantoday.net/news/crime/mobile-phone-seizures-at-hindley-prison-among-highest-in-uk-1-9167839) *17 May 2018*
 * The News: [Winchester jail awash with illegal mobile phones](https://www.portsmouth.co.uk/news/crime/winchester-jail-awash-with-illegal-mobile-phones-1-8500829) *17 May 2018*
+* Chronicle Live: [Rise in number of mobile phones found in North East prisons - and they could be keeping inmates safe](https://www.chroniclelive.co.uk/news/north-east-news/rise-number-mobile-phones-found-14669556)
 
 * This story was also used by BBC Radio London, BBC Radio Wales, BBC Radio Cornwall, BBC Newcastle, BBC Radio Lincolnshire, BBC Radio Solent, BBC Guernsey, BBC Radio Nottingham, Midlands Today, BBC Radio Manchester, BBC Radio Shropshire, BBC Coventry & Warwickshire, BBC Hereford & Worcester
 
