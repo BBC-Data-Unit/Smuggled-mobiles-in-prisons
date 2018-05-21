@@ -37,6 +37,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northamptonshire Telegraph: [Northamptonshire prison gets tough on mobile phone smuggling inmates](https://www.northantstelegraph.co.uk/news/northamptonshire-prison-gets-tough-on-mobile-phone-smuggling-inmates-1-8504021) *18 May 2018*
 * The Bucks Herald: [Aylesbury Prison is one of the worst in Country for mobile phone confiscations](https://www.bucksherald.co.uk/news/aylesbury-prison-is-one-of-the-worst-in-country-for-mobile-phone-confiscations-1-8502884) *18 May 2018*
 * The Gazette: [Phone shock at Kirkham Prison](https://www.blackpoolgazette.co.uk/news/crime/phone-shock-at-kirkham-prison-1-9170443) *18 May 2018*
+* DnG24: [Prison reports low rates of phone smuggling](https://www.dng24.co.uk/prison-reports-low-rates-of-phone-smuggling/) *21 May 2018*
 
 * This story was also used by BBC Radio London, BBC Radio Wales, BBC Radio Cornwall, BBC Newcastle, BBC Radio Lincolnshire, BBC Radio Solent, BBC Guernsey, BBC Radio Nottingham, Midlands Today, BBC Radio Manchester, BBC Radio Shropshire, BBC Coventry & Warwickshire, BBC Hereford & Worcester
 
