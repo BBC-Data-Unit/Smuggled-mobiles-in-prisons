@@ -23,6 +23,16 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Wigan Today: [Mobile phone seizures at Hindley Prison among highest in UK](https://www.wigantoday.net/news/crime/mobile-phone-seizures-at-hindley-prison-among-highest-in-uk-1-9167839) *17 May 2018*
 * The News: [Winchester jail awash with illegal mobile phones](https://www.portsmouth.co.uk/news/crime/winchester-jail-awash-with-illegal-mobile-phones-1-8500829) *17 May 2018*
 * Chronicle Live: [Rise in number of mobile phones found in North East prisons - and they could be keeping inmates safe](https://www.chroniclelive.co.uk/news/north-east-news/rise-number-mobile-phones-found-14669556) *17 May 2018*
+* News Post Leader: [Hike in number of mobile phones confiscated in Northumberland prison](https://www.newspostleader.co.uk/news/hike-in-number-of-mobile-phones-confiscated-in-northumberland-prison-1-9169832) *17 May 2018*
+* The Lincolnite: [Mobile phones increase at Lincoln prison](https://thelincolnite.co.uk/2018/05/mobile-phones-increase-at-lincoln-prison/) *17 May 2018*
+* The Star: [Doncaster Prison sees 3,350 per cent rise in seizures of mobile phones and SIM cards](https://www.thestar.co.uk/news/crime/doncaster-prison-sees-3-350-per-cent-rise-in-seizures-of-mobile-phones-and-sim-cards-1-9169599) *17 May 2018*
+* The Times & Star: [Figures released for number of smuggled phones confiscated from Cumbria's prison](http://www.timesandstar.co.uk/news/Figures-released-for-number-of-smuggled-phones-confiscated-from-Cumbrias-prison-34ee0c7e-71fd-4ecc-bce4-158a36f7d02a-ds#.Wv8EeAEVePE.twitter) *17 May 2018*
+* Morpeth Herald: [Hike in number of mobile phones confiscated in Northumberland prison](https://www.morpethherald.co.uk/news/hike-in-number-of-mobile-phones-confiscated-in-northumberland-prison-1-9169832) *17 May 2018*
+* Sunderland Echo: [Huge rise in seizures of mobile phones and SIM cards from North East prisoners](https://www.sunderlandecho.com/news/crime/huge-rise-in-seizures-of-mobile-phones-and-sim-cards-from-north-east-prisoners-1-9169557) *17 May 2018*
+* Northumberland Gazette: [Hike in number of mobile phones confiscated in Northumberland prison](https://www.northumberlandgazette.co.uk/news/hike-in-number-of-mobile-phones-confiscated-in-northumberland-prison-1-9169832) *17 May 2018*
+* Northamptonshire Telegraph: [Northamptonshire prison gets tough on mobile phone smuggling inmates](https://www.northantstelegraph.co.uk/news/northamptonshire-prison-gets-tough-on-mobile-phone-smuggling-inmates-1-8504021) *18 May 2018*
+* The Bucks Herald: [Aylesbury Prison is one of the worst in Country for mobile phone confiscations](https://www.bucksherald.co.uk/news/aylesbury-prison-is-one-of-the-worst-in-country-for-mobile-phone-confiscations-1-8502884) *18 May 2018*
+* The Gazette: [Phone shock at Kirkham Prison](https://www.blackpoolgazette.co.uk/news/crime/phone-shock-at-kirkham-prison-1-9170443) *18 May 2018*
 
 * This story was also used by BBC Radio London, BBC Radio Wales, BBC Radio Cornwall, BBC Newcastle, BBC Radio Lincolnshire, BBC Radio Solent, BBC Guernsey, BBC Radio Nottingham, Midlands Today, BBC Radio Manchester, BBC Radio Shropshire, BBC Coventry & Warwickshire, BBC Hereford & Worcester
 
